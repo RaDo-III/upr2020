@@ -5,6 +5,6 @@ using namespace std;
 int main() {
 
 cout << "Pak sme nie";
-cout<<"rado e gotin";
+cout<<"rado e nai-gotin";
 return 0;
 }
