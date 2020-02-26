@@ -2,7 +2,13 @@
 
 public class HelloIlko {
     public static void main(String[] args) {
-        System.out.println("Hello Ilko");
+        System.out.println("Hello radko");
         System.out.println("TI si edna jina");
+        greetJeni();
+    }
+
+    public void greetJeni() {
+        System.out.println("Tuk sum jeni");
     }
 }
+
