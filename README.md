@@ -2,7 +2,6 @@
 
 public class HelloIlko {
     public static void main(String[] args) {
-        System.out.println("Hello Ilko");
-        System.out.println("TI si edna jina");
+        System.out.println("Second push without pull");
     }
 }
